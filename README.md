@@ -1,6 +1,6 @@
 # swagLabs
-Install the following NuGetPackages in Visual Studio:
--DotNetSeleniumExtras.PageObjects
+#Install the following NuGetPackages in Visual Studio:
+#-DotNetSeleniumExtras.PageObjects
 -DotNetSeleniumExtras.PageObjects.Core
 -DotNetSeleniumExtras.WaitHelpers
 -Microsoft.NET.Test.Sdk
